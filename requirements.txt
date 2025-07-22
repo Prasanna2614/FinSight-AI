@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+yfinance
+json
+openai
+faiss-cpu
+faiss-gpu
+langchain
+langchain[community]
+transformers
+dotenv
+tiktoken
